@@ -1,3 +1,3 @@
-module github.com/liranpi2/limiter/m/v1.0.2
+module github.com/liranpi2/limiter
 
 go 1.16
